@@ -1,0 +1,13 @@
+D:\vs\ENI-RCDA025B-ASP.NET_TP01\obj\Debug\netcoreapp3.1\TP01M02.csprojAssemblyReference.cache
+D:\vs\ENI-RCDA025B-ASP.NET_TP01\obj\Debug\netcoreapp3.1\TP01M02.csproj.CoreCompileInputs.cache
+D:\vs\ENI-RCDA025B-ASP.NET_TP01\obj\Debug\netcoreapp3.1\TP01M02.AssemblyInfoInputs.cache
+D:\vs\ENI-RCDA025B-ASP.NET_TP01\obj\Debug\netcoreapp3.1\TP01M02.AssemblyInfo.cs
+D:\vs\ENI-RCDA025B-ASP.NET_TP01\bin\Debug\netcoreapp3.1\TP01M02.exe
+D:\vs\ENI-RCDA025B-ASP.NET_TP01\bin\Debug\netcoreapp3.1\TP01M02.deps.json
+D:\vs\ENI-RCDA025B-ASP.NET_TP01\bin\Debug\netcoreapp3.1\TP01M02.runtimeconfig.json
+D:\vs\ENI-RCDA025B-ASP.NET_TP01\bin\Debug\netcoreapp3.1\TP01M02.runtimeconfig.dev.json
+D:\vs\ENI-RCDA025B-ASP.NET_TP01\bin\Debug\netcoreapp3.1\TP01M02.dll
+D:\vs\ENI-RCDA025B-ASP.NET_TP01\bin\Debug\netcoreapp3.1\TP01M02.pdb
+D:\vs\ENI-RCDA025B-ASP.NET_TP01\obj\Debug\netcoreapp3.1\TP01M02.dll
+D:\vs\ENI-RCDA025B-ASP.NET_TP01\obj\Debug\netcoreapp3.1\TP01M02.pdb
+D:\vs\ENI-RCDA025B-ASP.NET_TP01\obj\Debug\netcoreapp3.1\TP01M02.genruntimeconfig.cache
